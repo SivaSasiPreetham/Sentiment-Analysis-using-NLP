@@ -7,4 +7,4 @@
 | Data Visualization   | Matplotlib, Seaborn   |
 |   Machine Learning     | Scikit-learn, NLP          |
 
-*Starting with **Exploratory Data Analysis** and **Data Visualization** , down the line I used **Text Data Cleaning, Natural Languagr Processing (NLP) and Tokenization** to prepare the data for **Sentiment analysis**. Used **Naive Bayes Classifier** to perform the sentiment analysis and **Logistic regression model** to improve the scores.*
+*Starting with **Exploratory Data Analysis** and **Data Visualization** , down the line I used **Text Data Cleaning, Natural Language Processing (NLP) and Tokenization** to prepare the data for **Sentiment analysis**. Used **Naive Bayes Classifier** to perform the sentiment analysis and **Logistic regression model** to improve the scores.*
